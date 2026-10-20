@@ -1,0 +1,74 @@
+{
+  "slug": "arcani-minori-combinati",
+  "title": "Arcani Minori Combinati",
+  "subtitle": "Il livello nascosto delle carte da gioco francesi dentro il tuo mazzo Lenormand",
+  "icon": "layers",
+  "intro": "Molti mazzi Lenormand, fin dalle prime edizioni ottocentesche, riportano in un angolo di ogni carta una piccola carta da gioco francese: un seme e un valore, da Asso a Re. Questo livello nascosto, spesso ignorato da chi inizia, aggiunge sfumature preziose a ogni lettura. Nota: la corrispondenza tra carte Lenormand e carte da gioco varia da un'edizione all'altra del mazzo. La tabella che trovi qui è quella di riferimento usata in questa guida, pensata per essere coerente e facile da memorizzare.",
+  "sections": [
+    {
+      "heading": "Il significato dei quattro semi",
+      "items": [
+        "Cuori: la sfera degli affetti, dei sentimenti e dei legami familiari. Rafforza il lato emotivo della carta Lenormand a cui è abbinato.",
+        "Quadri: la sfera del denaro, della comunicazione e degli scambi pratici. Rafforza il lato materiale o informativo della carta.",
+        "Fiori: la sfera dell'azione, del lavoro e dei progetti concreti. Rafforza il lato pratico e operativo della carta.",
+        "Picche: la sfera delle sfide, dei pensieri e delle prove da affrontare. Rafforza il lato impegnativo o riflessivo della carta."
+      ]
+    },
+    {
+      "heading": "Il significato dei valori",
+      "items": [
+        "Asso: un inizio, un seme piantato, un potenziale ancora da sviluppare.",
+        "Dal 6 all'8: una fase di costruzione o di prova, l'energia è ancora in movimento.",
+        "9 e 10: un punto di quasi completamento o di pienezza, a volte di eccesso.",
+        "Fante: una persona giovane, un messaggio in arrivo, un'energia rapida.",
+        "Regina: una figura femminile matura, intuito, gestione emotiva della situazione.",
+        "Re: una figura maschile matura, autorità, stabilità, controllo della situazione."
+      ]
+    },
+    {
+      "heading": "Tabella di corrispondenza di riferimento",
+      "table": [
+        { "card": "1. Il Cavaliere", "insert": "6 di Cuori" },
+        { "card": "2. Il Trifoglio", "insert": "7 di Fiori" },
+        { "card": "3. La Nave", "insert": "10 di Picche" },
+        { "card": "4. La Casa", "insert": "10 di Cuori" },
+        { "card": "5. L'Albero", "insert": "9 di Fiori" },
+        { "card": "6. Le Nuvole", "insert": "8 di Picche" },
+        { "card": "7. Il Serpente", "insert": "Regina di Picche" },
+        { "card": "8. La Bara", "insert": "9 di Picche" },
+        { "card": "9. Il Mazzo di Fiori", "insert": "Asso di Cuori" },
+        { "card": "10. La Falce", "insert": "Fante di Picche" },
+        { "card": "11. La Frusta", "insert": "Fante di Fiori" },
+        { "card": "12. Gli Uccelli", "insert": "7 di Quadri" },
+        { "card": "13. Il Bambino", "insert": "9 di Cuori" },
+        { "card": "14. La Volpe", "insert": "8 di Fiori" },
+        { "card": "15. L'Orso", "insert": "10 di Fiori" },
+        { "card": "16. Le Stelle", "insert": "6 di Quadri" },
+        { "card": "17. La Cicogna", "insert": "Fante di Cuori" },
+        { "card": "18. Il Cane", "insert": "9 di Fiori" },
+        { "card": "19. La Torre", "insert": "Re di Quadri" },
+        { "card": "20. Il Giardino", "insert": "8 di Cuori" },
+        { "card": "21. La Montagna", "insert": "Re di Picche" },
+        { "card": "22. Il Bivio", "insert": "Fante di Quadri" },
+        { "card": "23. I Topi", "insert": "7 di Picche" },
+        { "card": "24. Il Cuore", "insert": "Re di Cuori" },
+        { "card": "25. L'Anello", "insert": "Regina di Cuori" },
+        { "card": "26. Il Libro", "insert": "6 di Picche" },
+        { "card": "27. La Lettera", "insert": "Asso di Quadri" },
+        { "card": "28. L'Uomo", "insert": "Re di Fiori" },
+        { "card": "29. La Donna", "insert": "Regina di Quadri" },
+        { "card": "30. Il Giglio", "insert": "7 di Cuori" },
+        { "card": "31. Il Sole", "insert": "Asso di Picche" },
+        { "card": "32. La Luna", "insert": "Regina di Fiori" },
+        { "card": "33. La Chiave", "insert": "8 di Quadri" },
+        { "card": "34. I Pesci", "insert": "10 di Quadri" },
+        { "card": "35. L'Ancora", "insert": "Asso di Fiori" },
+        { "card": "36. La Croce", "insert": "6 di Fiori" }
+      ]
+    },
+    {
+      "heading": "Come usare questo livello nella pratica",
+      "body": "Non serve usarlo in ogni lettura. È uno strumento in più per quando una carta sembra ambigua, o per approfondire una domanda specifica su denaro, lavoro o sentimenti. Se la domanda riguarda il denaro, osserva se nella stesa compaiono molti semi di Quadri: è un segnale che il tema economico è centrale, anche se le carte Lenormand principali non lo nominano direttamente. Allo stesso modo, molti Cuori in una stesa generica suggeriscono che, sotto la superficie, la vera domanda è sentimentale."
+    }
+  ]
+}

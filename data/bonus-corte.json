@@ -1,0 +1,40 @@
+{
+  "slug": "segreti-della-corte",
+  "title": "I Segreti della Corte",
+  "subtitle": "Come riconoscere e leggere le persone all'interno di una stesa",
+  "icon": "crown",
+  "intro": "In ogni lettura di Lenormand ci sono carte che non descrivono eventi, ma persone. Imparare a riconoscerle e a leggerle è uno dei passaggi che fa la differenza tra una lettura generica e una lettura che parla davvero della vita di chi hai davanti. Questa guida ti insegna a lavorare con i personaggi del mazzo.",
+  "sections": [
+    {
+      "heading": "Che cos'è un Significatore",
+      "body": "Il Significatore è la carta scelta per rappresentare una persona specifica all'interno della stesa, di solito chi pone la domanda o una persona centrale nella situazione. Le carte più usate come significatori sono L'Uomo e La Donna, ma in alcune scuole si usano anche altre carte legate al ruolo della persona nella domanda, come L'Orso per un'autorità o Il Bambino per un figlio."
+    },
+    {
+      "heading": "Come scegliere il significatore giusto",
+      "items": [
+        "Per la persona che fa la domanda, si usa normalmente L'Uomo o La Donna, scelti in base al genere con cui la persona si identifica.",
+        "Per una seconda persona centrale nella domanda (un partner, un collega, un familiare), si sceglie di nuovo L'Uomo o La Donna, posizionandolo in un punto diverso della stesa.",
+        "Per un bambino o una situazione che riguarda un figlio, si usa Il Bambino.",
+        "Per una figura di autorità, come un capo, un genitore severo o una banca, si può usare L'Orso.",
+        "Per una persona amica e fidata, Il Cane rappresenta bene il ruolo di chi sostiene senza secondi fini.",
+        "Per una persona astuta o difficile da leggere, La Volpe descrive bene l'atteggiamento, più che l'identità."
+      ]
+    },
+    {
+      "heading": "Leggere le carte intorno al personaggio",
+      "body": "Una volta individuato il significatore nella stesa, le carte più vicine ad esso raccontano lo stato d'animo, le intenzioni e la situazione attuale di quella persona. Una carta positiva accanto al significatore (come Il Sole o Il Cuore) indica serenità e apertura. Una carta più pesante (come Le Nuvole o La Croce) suggerisce preoccupazione o un momento difficile per quella persona, anche se non lo mostra apertamente."
+    },
+    {
+      "heading": "La distanza conta",
+      "body": "Più una carta è vicina al significatore, più la sua influenza è diretta e immediata. Carte lontane nella stesa descrivono influenze di sfondo, meno urgenti ma comunque presenti. Quando due significatori (ad esempio L'Uomo e La Donna) sono vicini tra loro, la lettura racconta la dinamica della relazione tra le due persone; quando sono lontani, racconta una distanza reale, fisica o emotiva."
+    },
+    {
+      "heading": "Il ruolo dell'Orso, della Volpe e del Cane",
+      "body": "Oltre a L'Uomo e La Donna, tre carte funzionano spesso come 'personaggi di supporto' nella corte del mazzo. L'Orso rappresenta chi detiene potere o controllo, spesso con buone intenzioni ma con un carattere forte. La Volpe rappresenta chi agisce con calcolo, non necessariamente in modo disonesto, ma sempre con una strategia in mente. Il Cane rappresenta chi è semplicemente leale, senza secondi fini: l'amico, il collega fidato, il sostegno silenzioso."
+    },
+    {
+      "heading": "Esempio pratico",
+      "body": "Immagina una stesa in cui La Donna (la persona che chiede) è affiancata da Le Nuvole e Il Serpente, mentre più lontano compare Il Sole. Il significatore è circondato da confusione e da una possibile complicazione (forse una terza persona), ma l'energia generale della stesa, rappresentata dal Sole, resta positiva: la situazione si chiarirà, anche se nell'immediato la persona vive un momento di incertezza."
+    }
+  ]
+}

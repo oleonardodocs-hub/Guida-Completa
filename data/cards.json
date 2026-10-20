@@ -1,0 +1,1715 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "name": "Il Cavaliere",
+      "subtitle": "Il Messaggero",
+      "keywords": [
+        "novità",
+        "velocità",
+        "arrivo",
+        "messaggio",
+        "movimento"
+      ],
+      "uprightMeaning": "Il Cavaliere annuncia qualcosa che si muove verso di te: una notizia, una persona, un'occasione che arriva senza troppo preavviso. È la carta della rapidità e dell'iniziativa: quando compare, le cose smettono di stare ferme e cominciano a correre.",
+      "reversedMeaning": "Capovolto, Il Cavaliere parla di ritardi, di messaggi che non arrivano quando dovrebbero o di notizie incomplete. Può anche segnalare decisioni prese di fretta, senza aver valutato bene la situazione, o un'agitazione che non porta a nulla di concreto.",
+      "love": "In amore annuncia un primo contatto, un invito o il ritorno di qualcuno. In una relazione già avviata può indicare il bisogno di uscire dalla routine con un gesto spontaneo.",
+      "work": "Sul lavoro segnala una proposta, una chiamata o un colloquio imminente. È il momento di farsi trovare pronti, perché le occasioni qui si muovono in fretta.",
+      "finance": "Dal punto di vista economico può indicare un'entrata improvvisa o una spesa non programmata. Il consiglio è muoversi, ma senza improvvisare le decisioni importanti.",
+      "spirituality": "Rappresenta un messaggio che viene da fuori di noi, un segnale che chiede attenzione immediata. Invita ad ascoltare i segni che arrivano nei momenti meno previsti.",
+      "strengths": [
+        "Iniziativa e prontezza nel cogliere le occasioni",
+        "Energia fresca che smuove situazioni ferme",
+        "Capacità di portare notizie o persone nuove"
+      ],
+      "attention": [
+        "Impazienza nell'aspettare risposte",
+        "Decisioni prese senza riflettere abbastanza",
+        "Agitazione che si esaurisce senza risultati"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una notizia che riguarda il cuore, spesso l'arrivo di qualcuno che riaccende un sentimento."
+        },
+        {
+          "with": 27,
+          "text": "Un messaggio scritto in arrivo: una lettera, un'email o un documento importante."
+        },
+        {
+          "with": 19,
+          "text": "Una comunicazione che arriva da un'istituzione, un ufficio o un'azienda."
+        },
+        {
+          "with": 14,
+          "text": "Una notizia che va verificata, perché non tutto è come sembra a prima vista."
+        },
+        {
+          "with": 32,
+          "text": "Un riconoscimento o una visibilità che arriva prima del previsto."
+        },
+        {
+          "with": 6,
+          "text": "Una notizia ancora confusa, da chiarire prima di reagire."
+        },
+        {
+          "with": 28,
+          "text": "L'arrivo di un uomo legato alla domanda posta."
+        },
+        {
+          "with": 29,
+          "text": "L'arrivo di una donna legata alla domanda posta."
+        },
+        {
+          "with": 33,
+          "text": "Una notizia che sblocca finalmente una situazione ferma da tempo."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Il Trifoglio",
+      "subtitle": "La Fortuna Leggera",
+      "keywords": [
+        "fortuna",
+        "leggerezza",
+        "occasione breve",
+        "sollievo"
+      ],
+      "uprightMeaning": "Il Trifoglio porta un sorriso della sorte: piccolo, ma reale. È quella finestra di fortuna che va colta subito, perché non dura a lungo. Alleggerisce i pensieri e ricorda che non tutto richiede sforzo.",
+      "reversedMeaning": "Capovolto, parla di occasioni mancate per esitazione o di una fortuna che si rivela più piccola del previsto. Può indicare anche la tendenza ad aspettarsi colpi di fortuna invece di agire.",
+      "love": "Un incontro leggero, un momento piacevole senza troppe pretese. In coppia, un piccolo gesto che alleggerisce la quotidianità.",
+      "work": "Una buona occasione a breve termine o un piccolo colpo di fortuna in una trattativa. Non è il momento di aspettarsi grandi stravolgimenti, ma di accogliere il bene che arriva.",
+      "finance": "Un'entrata inattesa, modesta ma gradita. Il consiglio è goderla senza costruirci sopra aspettative troppo grandi.",
+      "spirituality": "Ricorda che la leggerezza è una forma di saggezza: non tutto il percorso spirituale passa dalla fatica.",
+      "strengths": [
+        "Capacità di cogliere le occasioni al volo",
+        "Ottimismo che attira situazioni favorevoli",
+        "Leggerezza che scioglie le tensioni"
+      ],
+      "attention": [
+        "Fortuna che dura poco se non viene colta subito",
+        "Tendenza a sottovalutare la pianificazione",
+        "Facili entusiasmi che si spengono in fretta"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un momento di gioia leggera in amore, breve ma sincero."
+        },
+        {
+          "with": 34,
+          "text": "Una piccola entrata di denaro arrivata quasi per caso."
+        },
+        {
+          "with": 20,
+          "text": "Un'occasione sociale fortunata, nata da un incontro informale."
+        },
+        {
+          "with": 10,
+          "text": "Una fortuna che va colta subito, prima che la finestra si chiuda."
+        },
+        {
+          "with": 36,
+          "text": "Un piccolo sollievo dopo un periodo pesante."
+        },
+        {
+          "with": 33,
+          "text": "Un'occasione fortunata che apre davvero una porta nuova."
+        },
+        {
+          "with": 9,
+          "text": "Una buona notizia che arriva come un piccolo regalo inaspettato."
+        },
+        {
+          "with": 13,
+          "text": "Un inizio leggero, senza pressioni, che parte con il piede giusto."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "La Nave",
+      "subtitle": "Il Viaggio",
+      "keywords": [
+        "viaggio",
+        "commercio",
+        "lontananza",
+        "ambizione",
+        "partenza"
+      ],
+      "uprightMeaning": "La Nave rappresenta il movimento verso un obiettivo lontano: un viaggio, un progetto internazionale, un desiderio di allontanarsi da ciò che è familiare per cercare qualcosa di più grande.",
+      "reversedMeaning": "Capovolta, indica partenze rimandate, un viaggio che non parte come previsto o il timore di allontanarsi da ciò che si conosce. Può segnalare anche scambi commerciali che si complicano.",
+      "love": "Una relazione a distanza, un legame con qualcuno di un'altra città o paese, oppure il desiderio di portare la coppia verso nuovi orizzonti insieme.",
+      "work": "Un progetto che guarda all'estero, un viaggio di lavoro o un'opportunità che richiede di uscire dalla propria zona abituale.",
+      "finance": "Guadagni legati a commerci, import-export o investimenti lontani da casa. Serve pazienza, perché i risultati arrivano con il tempo.",
+      "spirituality": "Simboleggia il viaggio interiore verso territori sconosciuti della propria coscienza, il coraggio di esplorare ciò che è diverso da noi.",
+      "strengths": [
+        "Ambizione e visione ampia",
+        "Capacità di affrontare l'ignoto",
+        "Apertura verso culture e opportunità diverse"
+      ],
+      "attention": [
+        "Rischio di disperdersi in troppi progetti lontani",
+        "Nostalgia di casa che rallenta le decisioni",
+        "Investimenti rischiosi se fatti senza informarsi"
+      ],
+      "combinations": [
+        {
+          "with": 34,
+          "text": "Guadagni legati a commercio internazionale o attività economiche lontane."
+        },
+        {
+          "with": 24,
+          "text": "Un amore a distanza o che nasce durante un viaggio."
+        },
+        {
+          "with": 19,
+          "text": "Un progetto legato a un'azienda o istituzione straniera."
+        },
+        {
+          "with": 21,
+          "text": "Un viaggio ostacolato, rimandato da circostanze più grandi di noi."
+        },
+        {
+          "with": 17,
+          "text": "Un trasferimento vero e proprio, un cambio di città o paese."
+        },
+        {
+          "with": 6,
+          "text": "Incertezza sulla destinazione o sul senso del viaggio da intraprendere."
+        },
+        {
+          "with": 33,
+          "text": "Un viaggio che apre davvero nuove possibilità concrete."
+        },
+        {
+          "with": 9,
+          "text": "Un viaggio piacevole, fatto per piacere più che per necessità."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "La Casa",
+      "subtitle": "La Radice",
+      "keywords": [
+        "famiglia",
+        "stabilità",
+        "radici",
+        "sicurezza",
+        "abitazione"
+      ],
+      "uprightMeaning": "La Casa parla di fondamenta solide: la famiglia, l'abitazione, la sicurezza costruita nel tempo. È il luogo a cui si torna, il punto fermo da cui ripartire.",
+      "reversedMeaning": "Capovolta, può indicare tensioni familiari, un ambiente domestico che pesa o la sensazione di non sentirsi davvero a casa da nessuna parte in questo momento.",
+      "love": "Una relazione che cerca stabilità, magari il passo della convivenza o di un progetto di vita condiviso.",
+      "work": "Un ambiente di lavoro solido, radicato, oppure un'attività legata al settore immobiliare o domestico.",
+      "finance": "Investimenti in una casa o in beni concreti. È un periodo in cui conviene consolidare più che rischiare.",
+      "spirituality": "Rappresenta il bisogno di tornare al proprio centro, di costruire una pratica stabile invece di rincorrere novità continue.",
+      "strengths": [
+        "Senso di appartenenza e radicamento",
+        "Capacità di costruire basi durature",
+        "Protezione del nucleo familiare"
+      ],
+      "attention": [
+        "Eccessivo attaccamento alle abitudini",
+        "Chiusura verso il nuovo per paura di perdere stabilità",
+        "Tensioni domestiche non affrontate"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una famiglia unita o il desiderio di costruire un nido insieme a qualcuno."
+        },
+        {
+          "with": 36,
+          "text": "Un peso legato alla casa o alla famiglia, da affrontare con pazienza."
+        },
+        {
+          "with": 34,
+          "text": "Stabilità economica legata al patrimonio immobiliare."
+        },
+        {
+          "with": 17,
+          "text": "Un trasloco o un cambiamento importante nella vita domestica."
+        },
+        {
+          "with": 15,
+          "text": "Una figura autorevole in famiglia, spesso un genitore o un protettore."
+        },
+        {
+          "with": 25,
+          "text": "Un impegno di lungo periodo legato alla casa, come un acquisto o un contratto."
+        },
+        {
+          "with": 13,
+          "text": "L'arrivo di un bambino o l'inizio di una nuova fase familiare."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "L'Albero",
+      "subtitle": "La Crescita",
+      "keywords": [
+        "salute",
+        "crescita",
+        "radici profonde",
+        "lentezza",
+        "vita"
+      ],
+      "uprightMeaning": "L'Albero rappresenta la crescita lenta ma solida: la salute del corpo, la vitalità, tutto ciò che ha bisogno di tempo per svilupparsi davvero. Non promette scorciatoie, ma radici profonde.",
+      "reversedMeaning": "Capovolto, può segnalare un calo di energia, una crescita bloccata o la necessità di prendersi cura di sé prima di continuare a dare agli altri.",
+      "love": "Una relazione che matura con il tempo, costruita giorno dopo giorno più che su grandi gesti improvvisi.",
+      "work": "Una carriera che cresce con costanza, un progetto che dà frutti solo dopo un investimento prolungato di energie.",
+      "finance": "Una crescita economica graduale, frutto di scelte sagge nel tempo piuttosto che di colpi fortunati.",
+      "spirituality": "Simbolo per eccellenza della crescita interiore: radici nel passato, rami verso il futuro, un equilibrio che si costruisce con pazienza.",
+      "strengths": [
+        "Solidità e resistenza nel tempo",
+        "Energia vitale che si rigenera",
+        "Capacità di crescere senza fretta"
+      ],
+      "attention": [
+        "Impazienza di fronte a processi lenti",
+        "Trascurare la propria salute per altre priorità",
+        "Radici così profonde da rendere difficile il cambiamento"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un amore che cresce lentamente ma su basi solide."
+        },
+        {
+          "with": 36,
+          "text": "Una questione di salute da seguire con attenzione e costanza."
+        },
+        {
+          "with": 34,
+          "text": "Una crescita economica lenta ma destinata a durare."
+        },
+        {
+          "with": 4,
+          "text": "Radici familiari forti che sostengono ogni altro ambito della vita."
+        },
+        {
+          "with": 31,
+          "text": "Un periodo di buona energia vitale e ottimismo per il futuro."
+        },
+        {
+          "with": 8,
+          "text": "Una fase di cura necessaria dopo un periodo di affaticamento."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Le Nuvole",
+      "subtitle": "Il Dubbio",
+      "keywords": [
+        "confusione",
+        "dubbio",
+        "instabilità",
+        "chiarimento necessario"
+      ],
+      "uprightMeaning": "Le Nuvole portano confusione temporanea: pensieri contrastanti, situazioni poco chiare, sentimenti che si alternano. Non è una carta definitiva, ma un invito a non decidere finché il cielo non si schiarisce.",
+      "reversedMeaning": "Capovolte, indicano che la confusione sta per dissolversi, oppure che un problema sembrava più grave di quanto fosse in realtà.",
+      "love": "Incertezza sui sentimenti, propri o della persona accanto. È un momento per parlarsi chiaramente, non per interpretare in silenzio.",
+      "work": "Un progetto dai contorni poco definiti o una comunicazione che genera fraintendimenti tra colleghi.",
+      "finance": "Situazione economica poco chiara, magari per mancanza di informazioni complete. Prima di decidere, conviene fare chiarezza sui numeri.",
+      "spirituality": "Un periodo di ricerca interiore in cui le risposte non sono ancora nitide, ma la domanda stessa è già un passo avanti.",
+      "strengths": [
+        "Sensibilità a sfumature che altri non notano",
+        "Capacità di tollerare l'incertezza senza farsi travolgere",
+        "Apertura a più possibilità contemporaneamente"
+      ],
+      "attention": [
+        "Decisioni prese nella confusione",
+        "Ansia generata da scenari immaginati",
+        "Comunicazione poco chiara con chi sta vicino"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Dubbi sentimentali che vanno chiariti con una conversazione sincera."
+        },
+        {
+          "with": 1,
+          "text": "Una notizia ancora poco chiara, da verificare prima di reagire."
+        },
+        {
+          "with": 27,
+          "text": "Un documento o messaggio ambiguo che genera incertezza."
+        },
+        {
+          "with": 31,
+          "text": "Il chiarimento sta arrivando: la nebbia si sta per diradare."
+        },
+        {
+          "with": 23,
+          "text": "Una preoccupazione che cresce proprio a causa della mancanza di chiarezza."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Il Serpente",
+      "subtitle": "La Via Tortuosa",
+      "keywords": [
+        "complicazione",
+        "astuzia",
+        "deviazione",
+        "terza persona"
+      ],
+      "uprightMeaning": "Il Serpente avverte di un percorso non lineare: una complicazione, una persona che agisce con secondi fini o una situazione che richiede cautela e intelligenza per essere gestita.",
+      "reversedMeaning": "Capovolto, può indicare che l'inganno viene smascherato o che una complicazione, dopo molta fatica, si sta finalmente sciogliendo.",
+      "love": "Possibile presenza di una terza persona nella relazione, oppure una dinamica di gelosia e manipolazione da osservare con lucidità.",
+      "work": "Un collega o un socio che non gioca a carte scoperte. Non significa necessariamente malafede, ma invita a muoversi con attenzione.",
+      "finance": "Un accordo economico che nasconde condizioni poco chiare: prima di firmare, meglio leggere bene ogni dettaglio.",
+      "spirituality": "Rappresenta la trasformazione che passa attraverso le difficoltà, la saggezza che nasce dall'aver attraversato un inganno o una prova.",
+      "strengths": [
+        "Intelligenza strategica nel gestire situazioni complesse",
+        "Capacità di adattarsi a percorsi tortuosi",
+        "Intuito nel riconoscere chi non è sincero"
+      ],
+      "attention": [
+        "Rischio di essere ingannati se si abbassa la guardia",
+        "Gelosia o manipolazione in una relazione",
+        "Scorciatoie che complicano invece di semplificare"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una terza persona che si inserisce in una storia d'amore."
+        },
+        {
+          "with": 28,
+          "text": "Un uomo che agisce con secondi fini o poca trasparenza."
+        },
+        {
+          "with": 29,
+          "text": "Una donna che agisce con secondi fini o poca trasparenza."
+        },
+        {
+          "with": 34,
+          "text": "Un accordo economico da leggere con molta attenzione prima di accettare."
+        },
+        {
+          "with": 19,
+          "text": "Intrighi o politiche interne in un'azienda o istituzione."
+        },
+        {
+          "with": 33,
+          "text": "Una complicazione che, risolta, porta a una soluzione più forte di prima."
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "La Bara",
+      "subtitle": "La Chiusura",
+      "keywords": [
+        "fine",
+        "trasformazione",
+        "chiusura",
+        "rinascita"
+      ],
+      "uprightMeaning": "La Bara segna la fine di un ciclo. Non è una carta da temere: indica che qualcosa deve chiudersi perché qualcos'altro possa nascere. È il punto più basso prima della trasformazione.",
+      "reversedMeaning": "Capovolta, suggerisce una rinascita già in corso, la fine di un periodo difficile o la guarigione da qualcosa che sembrava non dover finire mai.",
+      "love": "La chiusura di una relazione o di una fase sentimentale stagnante, che apre però lo spazio per qualcosa di più autentico.",
+      "work": "La fine di un progetto, di un contratto o di una collaborazione. È un passaggio necessario, anche se può essere scomodo.",
+      "finance": "Un capitolo economico che si chiude, come un debito saldato o una spesa che finalmente finisce di pesare.",
+      "spirituality": "Rappresenta la morte simbolica necessaria a ogni vera trasformazione interiore, il lasciar andare ciò che non serve più.",
+      "strengths": [
+        "Capacità di chiudere ciò che non funziona più",
+        "Coraggio di affrontare una trasformazione necessaria",
+        "Forza di ricominciare da zero"
+      ],
+      "attention": [
+        "Resistenza a lasciar andare situazioni già finite",
+        "Paura del cambiamento che prolunga la sofferenza",
+        "Tendenza a vedere solo la perdita e non la rinascita"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "La fine di una relazione o di un sentimento che ha fatto il suo corso."
+        },
+        {
+          "with": 36,
+          "text": "Un periodo di prova prolungato, che però ha una fine."
+        },
+        {
+          "with": 19,
+          "text": "La chiusura definitiva di un rapporto con un'azienda o istituzione."
+        },
+        {
+          "with": 13,
+          "text": "Dopo la fine, un nuovo inizio semplice e genuino."
+        },
+        {
+          "with": 31,
+          "text": "Una chiusura che, con il tempo, si rivela positiva e liberatoria."
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Il Mazzo di Fiori",
+      "subtitle": "Il Dono",
+      "keywords": [
+        "dono",
+        "bellezza",
+        "invito",
+        "apprezzamento",
+        "sorpresa piacevole"
+      ],
+      "uprightMeaning": "Il Mazzo di Fiori porta bellezza e gratitudine: un dono, un invito, un gesto gentile che arriva nel momento giusto. È una delle carte più luminose del mazzo.",
+      "reversedMeaning": "Capovolto, può indicare un regalo con secondi fini, un invito rifiutato o un apprezzamento che tarda ad arrivare.",
+      "love": "Un gesto romantico, un complimento sincero, un invito che riaccende l'interesse reciproco.",
+      "work": "Un riconoscimento meritato, un complimento da un superiore o un'offerta che valorizza le proprie capacità.",
+      "finance": "Un piccolo guadagno extra o un regalo di valore economico. Un momento di respiro piacevole.",
+      "spirituality": "Simbolo di gratitudine: invita a riconoscere la bellezza presente nella vita, anche nei dettagli piccoli.",
+      "strengths": [
+        "Capacità di apprezzare e farsi apprezzare",
+        "Gentilezza che genera buone relazioni",
+        "Energia positiva che attira cose belle"
+      ],
+      "attention": [
+        "Apparenza che nasconde intenzioni meno limpide",
+        "Aspettative troppo alte su un gesto gentile",
+        "Gratitudine superficiale senza reale coinvolgimento"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un gesto romantico sincero, capace di far rifiorire un sentimento."
+        },
+        {
+          "with": 27,
+          "text": "Un invito scritto, come una lettera gentile o un messaggio premuroso."
+        },
+        {
+          "with": 15,
+          "text": "Un riconoscimento che arriva da una figura autorevole."
+        },
+        {
+          "with": 34,
+          "text": "Un piccolo guadagno piacevole, come un bonus o un regalo in denaro."
+        },
+        {
+          "with": 20,
+          "text": "Un invito a un evento sociale piacevole e rilassante."
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "La Falce",
+      "subtitle": "Il Taglio Netto",
+      "keywords": [
+        "decisione improvvisa",
+        "taglio",
+        "rischio",
+        "rapidità"
+      ],
+      "uprightMeaning": "La Falce taglia netto: una decisione improvvisa, una separazione, un evento che arriva in fretta e cambia le cose senza troppi preamboli. Chiede prontezza di riflessi.",
+      "reversedMeaning": "Capovolta, può indicare un pericolo evitato all'ultimo momento o una decisione rimandata che, prima o poi, dovrà comunque essere presa.",
+      "love": "Una rottura improvvisa o una decisione netta su una relazione che non può più restare a metà.",
+      "work": "Un taglio di budget, una scadenza improvvisa o la necessità di decidere in fretta su un progetto.",
+      "finance": "Una spesa imprevista e urgente, oppure un taglio ai costi deciso in modo repentino.",
+      "spirituality": "Rappresenta il momento in cui bisogna recidere ciò che fa male, anche se il taglio costa fatica.",
+      "strengths": [
+        "Capacità di agire con decisione quando serve",
+        "Lucidità nel tagliare ciò che non serve più",
+        "Prontezza di fronte all'imprevisto"
+      ],
+      "attention": [
+        "Decisioni troppo brusche che feriscono chi sta vicino",
+        "Rischio di incidenti per eccessiva fretta",
+        "Tagli che, fatti male, creano altri problemi"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una rottura sentimentale improvvisa e netta."
+        },
+        {
+          "with": 19,
+          "text": "Un licenziamento o una decisione drastica presa da un'azienda."
+        },
+        {
+          "with": 36,
+          "text": "Un dolore acuto ma breve, più intenso che duraturo."
+        },
+        {
+          "with": 2,
+          "text": "Un'occasione da cogliere subito, prima che la finestra si chiuda."
+        },
+        {
+          "with": 8,
+          "text": "Una chiusura rapida e definitiva di una situazione già esaurita."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "La Frusta",
+      "subtitle": "La Ripetizione",
+      "keywords": [
+        "conflitto",
+        "ripetizione",
+        "discussione",
+        "disciplina"
+      ],
+      "uprightMeaning": "La Frusta rappresenta ciò che si ripete: una discussione ricorrente, un conflitto non ancora risolto, ma anche la disciplina di chi si allena costantemente verso un obiettivo.",
+      "reversedMeaning": "Capovolta, indica un conflitto che si placa, oppure una ripetizione sterile che non porta più a nulla e andrebbe interrotta.",
+      "love": "Discussioni ricorrenti sullo stesso argomento, segno che c'è un tema irrisolto da affrontare davvero, non solo da litigare.",
+      "work": "Tensioni ripetute con un collega o un cliente, oppure un allenamento costante che porta a risultati concreti nel tempo.",
+      "finance": "Spese ricorrenti che si ripetono mese dopo mese, da monitorare con attenzione.",
+      "spirituality": "Simbolo della disciplina: la pratica costante, anche quando ripetitiva, è ciò che costruisce la forza interiore.",
+      "strengths": [
+        "Costanza e capacità di allenarsi nel tempo",
+        "Energia per affrontare conflitti di petto",
+        "Determinazione nel ripetere finché non si ottiene il risultato"
+      ],
+      "attention": [
+        "Litigi che si ripetono senza mai risolversi davvero",
+        "Stress accumulato da tensioni costanti",
+        "Rigidità che impedisce di cambiare approccio"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Discussioni ripetute in una relazione, segno di un tema da affrontare a fondo."
+        },
+        {
+          "with": 19,
+          "text": "Tensioni ricorrenti in un contesto lavorativo o istituzionale."
+        },
+        {
+          "with": 7,
+          "text": "Un conflitto complicato da una terza persona o da secondi fini."
+        },
+        {
+          "with": 5,
+          "text": "Un allenamento costante che porta benefici fisici nel tempo."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Gli Uccelli",
+      "subtitle": "La Coppia",
+      "keywords": [
+        "conversazione",
+        "coppia",
+        "nervosismo",
+        "chiacchiere"
+      ],
+      "uprightMeaning": "Gli Uccelli parlano di scambio continuo: conversazioni, una coppia, informazioni che circolano velocemente. Portano anche un pizzico di agitazione nervosa.",
+      "reversedMeaning": "Capovolti, indicano pettegolezzi, malintesi diffusi o un'ansia che si alimenta da sola attraverso troppe chiacchiere.",
+      "love": "Una coppia in dialogo costante, oppure la necessità di parlarsi di più per non lasciare spazio a fraintendimenti.",
+      "work": "Riunioni, scambi di informazioni frequenti, ma anche il rischio di pettegolezzi tra colleghi.",
+      "finance": "Piccole entrate o uscite frequenti, come un flusso di denaro fatto di tante operazioni minori.",
+      "spirituality": "Rappresenta il dialogo interiore, a volte troppo rumoroso: un invito a trovare momenti di silenzio.",
+      "strengths": [
+        "Facilità di comunicazione",
+        "Capacità di creare connessioni rapide",
+        "Vivacità mentale e prontezza di parola"
+      ],
+      "attention": [
+        "Ansia che cresce per troppi pensieri contemporanei",
+        "Pettegolezzi che danneggiano una relazione o una reputazione",
+        "Difficoltà a stare in silenzio con se stessi"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una coppia che comunica molto, nel bene e nel male."
+        },
+        {
+          "with": 27,
+          "text": "Scambi frequenti di messaggi o chiamate su un argomento specifico."
+        },
+        {
+          "with": 14,
+          "text": "Pettegolezzi o voci non del tutto affidabili in circolazione."
+        },
+        {
+          "with": 6,
+          "text": "Un'ansia che si alimenta di pensieri confusi e ripetitivi."
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Il Bambino",
+      "subtitle": "Il Nuovo Inizio",
+      "keywords": [
+        "inizio",
+        "innocenza",
+        "semplicità",
+        "piccola cosa"
+      ],
+      "uprightMeaning": "Il Bambino porta freschezza: un nuovo inizio, qualcosa di piccolo ma pieno di potenziale, un approccio semplice e genuino a una situazione.",
+      "reversedMeaning": "Capovolto, può indicare immaturità, un progetto che fatica a decollare o la tendenza a comportarsi in modo ingenuo in un momento che richiederebbe più esperienza.",
+      "love": "L'inizio di una relazione, oppure la riscoperta della leggerezza e della spontaneità dei primi tempi.",
+      "work": "Un progetto agli inizi, ancora piccolo ma con margini di crescita importanti.",
+      "finance": "Un piccolo investimento iniziale o un risparmio che comincia a formarsi, goccia dopo goccia.",
+      "spirituality": "Simbolo di rinascita e purezza di intenti: un invito a riscoprire la meraviglia, senza il peso delle troppe aspettative.",
+      "strengths": [
+        "Entusiasmo genuino per le cose nuove",
+        "Capacità di ripartire senza pregiudizi",
+        "Semplicità che disinnesca situazioni complicate"
+      ],
+      "attention": [
+        "Ingenuità di fronte a situazioni più complesse del previsto",
+        "Progetti iniziati con entusiasmo ma senza struttura",
+        "Impazienza di vedere risultati immediati"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "L'inizio genuino di una storia d'amore o la nascita di un bambino."
+        },
+        {
+          "with": 4,
+          "text": "Una nuova fase nella vita familiare, come una nascita o un trasferimento."
+        },
+        {
+          "with": 8,
+          "text": "Un nuovo inizio che arriva proprio dopo la chiusura di un ciclo."
+        },
+        {
+          "with": 2,
+          "text": "Un inizio fortunato, leggero, senza troppe complicazioni."
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "La Volpe",
+      "subtitle": "L'Astuzia",
+      "keywords": [
+        "astuzia",
+        "lavoro",
+        "cautela",
+        "diplomazia"
+      ],
+      "uprightMeaning": "La Volpe rappresenta l'intelligenza pratica: sapersi muovere con astuzia, soprattutto nel lavoro. Invita a usare la testa più del cuore in questo momento.",
+      "reversedMeaning": "Capovolta, segnala un inganno, una situazione lavorativa poco chiara o qualcuno che usa l'astuzia contro i propri interessi.",
+      "love": "Attenzione a chi usa parole studiate per convincere più che per essere sincero. Serve discernimento.",
+      "work": "Il lavoro autonomo, il saper negoziare, la capacità di muoversi con intelligenza strategica in un ambiente competitivo.",
+      "finance": "Guadagni ottenuti grazie a un'idea astuta o a una negoziazione ben condotta, ma va verificata l'onestà delle controparti.",
+      "spirituality": "Invita a usare il discernimento come strumento spirituale: non tutto ciò che luccica è oro.",
+      "strengths": [
+        "Intelligenza pratica e capacità di adattamento",
+        "Diplomazia nelle trattative difficili",
+        "Fiuto per le opportunità lavorative"
+      ],
+      "attention": [
+        "Rischio di essere ingannati da chi è più scaltro",
+        "Tentazione di usare scorciatoie poco oneste",
+        "Diffidenza eccessiva che blocca le relazioni"
+      ],
+      "combinations": [
+        {
+          "with": 19,
+          "text": "Una strategia lavorativa ben congegnata all'interno di un'azienda."
+        },
+        {
+          "with": 7,
+          "text": "Un doppio gioco o una situazione che nasconde più di quanto sembri."
+        },
+        {
+          "with": 34,
+          "text": "Un guadagno ottenuto grazie a un'idea intelligente e ben calcolata."
+        },
+        {
+          "with": 28,
+          "text": "Un uomo scaltro, da osservare con attenzione nelle trattative."
+        },
+        {
+          "with": 29,
+          "text": "Una donna scaltra, da osservare con attenzione nelle trattative."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "L'Orso",
+      "subtitle": "La Protezione",
+      "keywords": [
+        "forza",
+        "protezione",
+        "autorità",
+        "gelosia"
+      ],
+      "uprightMeaning": "L'Orso rappresenta la forza protettiva: una figura autorevole, spesso legata al denaro o alla famiglia, che difende ciò che ama. Porta solidità, ma anche un carattere deciso.",
+      "reversedMeaning": "Capovolto, può indicare possessività, gelosia o un'autorità che diventa soffocante invece che protettiva.",
+      "love": "Una persona molto protettiva, a volte fin troppo gelosa. In alcuni casi rappresenta un genitore che interferisce nella relazione.",
+      "work": "Un capo o un socio potente, che ha il controllo delle risorse e delle decisioni importanti.",
+      "finance": "Buone risorse economiche, spesso gestite da una persona forte e decisa all'interno della famiglia o dell'azienda.",
+      "spirituality": "Simbolo della forza che protegge senza soffocare, dell'autorità interiore che sa dire no quando serve.",
+      "strengths": [
+        "Capacità di proteggere le persone care",
+        "Forza e stabilità economica",
+        "Autorevolezza che ispira rispetto"
+      ],
+      "attention": [
+        "Gelosia che limita la libertà altrui",
+        "Autoritarismo invece di guida",
+        "Possessività verso denaro o persone"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una gelosia forte all'interno di una relazione, da gestire con dialogo."
+        },
+        {
+          "with": 34,
+          "text": "Buone risorse economiche gestite con prudenza e controllo."
+        },
+        {
+          "with": 4,
+          "text": "Una figura genitoriale forte e presente in famiglia."
+        },
+        {
+          "with": 19,
+          "text": "Un dirigente o un'autorità con grande potere decisionale."
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Le Stelle",
+      "subtitle": "La Guida",
+      "keywords": [
+        "speranza",
+        "chiarezza",
+        "destino",
+        "ispirazione"
+      ],
+      "uprightMeaning": "Le Stelle illuminano la strada: speranza, chiarezza, ispirazione. È una delle carte più positive, indica che il percorso intrapreso è quello giusto.",
+      "reversedMeaning": "Capovolte, possono indicare disillusione, obiettivi poco chiari o la sensazione di aver perso la propria guida interiore.",
+      "love": "Un sentimento che si fa più chiaro, una relazione guidata da sincera speranza nel futuro condiviso.",
+      "work": "Un progetto che diventa visibile, apprezzato pubblicamente, oppure legato alla propria immagine online.",
+      "finance": "Una visione chiara dei propri obiettivi economici, che aiuta a pianificare con più sicurezza.",
+      "spirituality": "Rappresenta la connessione con una guida superiore, l'intuizione che illumina la direzione da prendere.",
+      "strengths": [
+        "Chiarezza di visione e di obiettivi",
+        "Ispirazione che guida le scelte importanti",
+        "Ottimismo fondato, non ingenuo"
+      ],
+      "attention": [
+        "Aspettative troppo idealizzate",
+        "Perdita di contatto con la realtà pratica",
+        "Delusione se gli obiettivi restano solo sognati"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Grande speranza e chiarezza nei sentimenti, una relazione che ispira fiducia."
+        },
+        {
+          "with": 32,
+          "text": "Visibilità e riconoscimento pubblico, anche sui social o online."
+        },
+        {
+          "with": 33,
+          "text": "Una chiarezza che porta finalmente alla soluzione cercata."
+        },
+        {
+          "with": 6,
+          "text": "La confusione si sta per dissolvere, la direzione sta diventando chiara."
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "La Cicogna",
+      "subtitle": "Il Cambiamento",
+      "keywords": [
+        "cambiamento",
+        "trasloco",
+        "evoluzione",
+        "novità in arrivo"
+      ],
+      "uprightMeaning": "La Cicogna annuncia un cambiamento positivo in arrivo: un trasferimento, un miglioramento, un'evoluzione naturale della situazione attuale.",
+      "reversedMeaning": "Capovolta, indica resistenza al cambiamento, un trasloco rimandato o un'evoluzione che tarda ad arrivare nonostante sia necessaria.",
+      "love": "Un cambiamento importante nella relazione: una convivenza, un trasferimento insieme, un passo avanti naturale.",
+      "work": "Un avanzamento di carriera, un trasferimento di sede o un cambiamento di ruolo che migliora la situazione.",
+      "finance": "Un miglioramento graduale delle proprie condizioni economiche, frutto di un cambiamento di strategia.",
+      "spirituality": "Simbolo di evoluzione personale, del passaggio naturale da una fase di vita a un'altra più matura.",
+      "strengths": [
+        "Apertura al cambiamento come opportunità",
+        "Capacità di evolvere senza paura",
+        "Energia per i nuovi inizi che richiedono spostamenti"
+      ],
+      "attention": [
+        "Resistenza che rallenta un'evoluzione necessaria",
+        "Cambiamenti affrontati con troppa ansia",
+        "Instabilità se i cambiamenti sono troppo frequenti"
+      ],
+      "combinations": [
+        {
+          "with": 4,
+          "text": "Un trasloco o un cambiamento importante legato alla casa."
+        },
+        {
+          "with": 24,
+          "text": "Un passo avanti naturale nella relazione, come una convivenza."
+        },
+        {
+          "with": 19,
+          "text": "Un trasferimento di sede o un cambiamento in ambito lavorativo."
+        },
+        {
+          "with": 13,
+          "text": "Una nuova fase di vita che inizia con semplicità e leggerezza."
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Il Cane",
+      "subtitle": "La Fedeltà",
+      "keywords": [
+        "lealtà",
+        "amicizia",
+        "fiducia",
+        "persona fidata"
+      ],
+      "uprightMeaning": "Il Cane rappresenta la lealtà più autentica: un amico fidato, una relazione basata sulla fiducia reciproca. È una delle carte più rassicuranti del mazzo.",
+      "reversedMeaning": "Capovolto, può indicare un tradimento da parte di qualcuno di cui ci si fidava, o una lealtà mal riposta.",
+      "love": "Un partner fedele e presente, o un'amicizia che si sta trasformando in qualcosa di più profondo.",
+      "work": "Un collega o un collaboratore affidabile, su cui si può davvero contare nei momenti difficili.",
+      "finance": "Un consulente o un socio fidato che aiuta a gestire bene le proprie risorse economiche.",
+      "spirituality": "Simbolo della fedeltà a se stessi, del rimanere fedeli ai propri valori anche quando è difficile.",
+      "strengths": [
+        "Lealtà autentica verso le persone care",
+        "Affidabilità riconosciuta da chi sta intorno",
+        "Capacità di costruire fiducia duratura"
+      ],
+      "attention": [
+        "Fiducia mal riposta in chi non la merita",
+        "Dipendenza eccessiva dall'approvazione altrui",
+        "Difficoltà a riconoscere un tradimento in corso"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un amore fedele, costruito su una fiducia solida e reciproca."
+        },
+        {
+          "with": 7,
+          "text": "Attenzione a un possibile tradimento da parte di qualcuno vicino."
+        },
+        {
+          "with": 28,
+          "text": "Un amico o partner uomo su cui si può davvero contare."
+        },
+        {
+          "with": 29,
+          "text": "Un'amica o partner donna su cui si può davvero contare."
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "La Torre",
+      "subtitle": "L'Istituzione",
+      "keywords": [
+        "istituzione",
+        "ambizione",
+        "solitudine",
+        "struttura"
+      ],
+      "uprightMeaning": "La Torre rappresenta le strutture grandi: aziende, istituzioni, uffici pubblici, ma anche l'ambizione personale di costruire qualcosa che duri. Porta anche un certo isolamento.",
+      "reversedMeaning": "Capovolta, può indicare burocrazia eccessiva, un'istituzione che blocca invece di aiutare, o una solitudine che pesa più del dovuto.",
+      "love": "Una relazione che mantiene le distanze, o il bisogno di spazio personale all'interno della coppia.",
+      "work": "Un'azienda strutturata, un ente pubblico, un ambiente formale dove contano le regole e la gerarchia.",
+      "finance": "Rapporti con banche, istituzioni finanziarie o enti pubblici legati a pratiche economiche importanti.",
+      "spirituality": "Simbolo della torre d'avorio: la necessità di isolarsi per guardare le cose dall'alto, con prospettiva.",
+      "strengths": [
+        "Ambizione costruttiva e visione a lungo termine",
+        "Capacità di creare strutture solide",
+        "Indipendenza e autosufficienza"
+      ],
+      "attention": [
+        "Isolamento che allontana dagli affetti",
+        "Rigidità burocratica che blocca le soluzioni",
+        "Ambizione che mette in secondo piano le relazioni"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una relazione che mantiene le distanze o un amore vissuto con riserbo."
+        },
+        {
+          "with": 1,
+          "text": "Una comunicazione formale in arrivo da un ufficio o un'azienda."
+        },
+        {
+          "with": 34,
+          "text": "Pratiche economiche importanti legate a banche o enti finanziari."
+        },
+        {
+          "with": 36,
+          "text": "Un periodo di isolamento forzato, da vivere con pazienza."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Il Giardino",
+      "subtitle": "La Comunità",
+      "keywords": [
+        "socialità",
+        "comunità",
+        "eventi",
+        "vita pubblica"
+      ],
+      "uprightMeaning": "Il Giardino rappresenta la vita sociale: eventi, incontri pubblici, la rete di persone che condividono uno spazio comune. È una carta di apertura verso gli altri.",
+      "reversedMeaning": "Capovolto, può indicare isolamento sociale, l'esclusione da un gruppo o una vita pubblica che pesa più del dovuto.",
+      "love": "Un incontro nato in un contesto sociale, come una festa o un evento pubblico, oppure una relazione molto visibile agli occhi degli altri.",
+      "work": "Networking, eventi di settore, occasioni di farsi conoscere in pubblico o di ampliare la propria rete di contatti.",
+      "finance": "Opportunità economiche che nascono da contatti sociali o da una buona rete di conoscenze.",
+      "spirituality": "Rappresenta il senso di comunità, la crescita che avviene anche attraverso lo scambio con gli altri.",
+      "strengths": [
+        "Capacità di creare e mantenere una rete sociale",
+        "Energia che si nutre dello stare insieme agli altri",
+        "Visibilità che apre nuove porte"
+      ],
+      "attention": [
+        "Dipendenza dall'approvazione sociale",
+        "Superficialità nelle relazioni troppo numerose",
+        "Esposizione pubblica che genera ansia"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un incontro romantico nato durante un evento sociale."
+        },
+        {
+          "with": 9,
+          "text": "Un invito piacevole a un evento o una festa."
+        },
+        {
+          "with": 19,
+          "text": "Un evento professionale organizzato da un'azienda o istituzione."
+        },
+        {
+          "with": 2,
+          "text": "Un'occasione sociale fortunata, nata quasi per caso."
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "La Montagna",
+      "subtitle": "L'Ostacolo",
+      "keywords": [
+        "ostacolo",
+        "ritardo",
+        "blocco",
+        "distanza"
+      ],
+      "uprightMeaning": "La Montagna rappresenta l'ostacolo concreto: un ritardo, un blocco, una difficoltà che richiede impegno per essere superata. Non è insormontabile, ma chiede pazienza e strategia.",
+      "reversedMeaning": "Capovolta, può indicare che l'ostacolo si sta finalmente rimuovendo, oppure che la difficoltà era più grande nella mente che nella realtà.",
+      "love": "Una distanza, fisica o emotiva, che complica la relazione. Un ostacolo esterno che richiede impegno da entrambe le parti.",
+      "work": "Un progetto bloccato da un ostacolo burocratico o da una resistenza esterna difficile da aggirare.",
+      "finance": "Una difficoltà economica temporanea che richiede strategia e pazienza per essere superata.",
+      "spirituality": "Simbolo della prova che rafforza: la montagna si scala un passo alla volta, non tutta insieme.",
+      "strengths": [
+        "Resistenza e capacità di affrontare le difficoltà",
+        "Determinazione nel superare ogni ostacolo",
+        "Forza che cresce proprio nella sfida"
+      ],
+      "attention": [
+        "Scoraggiamento di fronte a un ostacolo che sembra troppo grande",
+        "Blocchi prolungati che consumano energie",
+        "Tendenza a vedere solo la difficoltà e non la via d'uscita"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un ostacolo esterno che mette alla prova la relazione."
+        },
+        {
+          "with": 3,
+          "text": "Un viaggio o un progetto rimandato da circostanze più grandi."
+        },
+        {
+          "with": 33,
+          "text": "Un ostacolo che, superato, porta finalmente alla soluzione."
+        },
+        {
+          "with": 19,
+          "text": "Una resistenza burocratica difficile da aggirare."
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Il Bivio",
+      "subtitle": "La Scelta",
+      "keywords": [
+        "scelta",
+        "alternativa",
+        "decisione",
+        "strade diverse"
+      ],
+      "uprightMeaning": "Il Bivio presenta più strade possibili: una scelta da fare, alternative da valutare con attenzione prima di procedere. Non c'è una sola risposta giusta, ma serve chiarezza.",
+      "reversedMeaning": "Capovolto, può indicare indecisione prolungata, la paura di scegliere o la sensazione di aver sbagliato strada.",
+      "love": "Una scelta importante tra due possibilità sentimentali, oppure un bivio nella direzione da dare alla relazione.",
+      "work": "Due o più opportunità professionali da valutare, ognuna con vantaggi e rischi diversi.",
+      "finance": "Una decisione economica importante tra più opzioni di investimento o spesa.",
+      "spirituality": "Rappresenta il libero arbitrio: ogni scelta apre una strada e ne chiude altre, ed è giusto così.",
+      "strengths": [
+        "Capacità di valutare più opzioni con lucidità",
+        "Apertura a strade alternative",
+        "Libertà di scegliere consapevolmente"
+      ],
+      "attention": [
+        "Indecisione che fa perdere occasioni",
+        "Paura di sbagliare che blocca ogni scelta",
+        "Rimpianto per strade non percorse"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una scelta importante da fare riguardo al futuro della relazione."
+        },
+        {
+          "with": 19,
+          "text": "Due opportunità professionali da valutare con attenzione."
+        },
+        {
+          "with": 33,
+          "text": "Una scelta che, una volta fatta, sblocca finalmente la situazione."
+        },
+        {
+          "with": 6,
+          "text": "Confusione nel decidere tra le strade possibili."
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "I Topi",
+      "subtitle": "L'Erosione",
+      "keywords": [
+        "perdita",
+        "stress",
+        "erosione",
+        "logoramento"
+      ],
+      "uprightMeaning": "I Topi rappresentano il logoramento lento: una perdita graduale, uno stress che consuma energie giorno dopo giorno, qualcosa che si sgretola poco alla volta.",
+      "reversedMeaning": "Capovolti, possono indicare che il logoramento si sta fermando, oppure che un problema di piccola entità è stato finalmente risolto.",
+      "love": "Una relazione logorata da piccoli attriti quotidiani, che rischiano di accumularsi se non affrontati.",
+      "work": "Stress continuo sul lavoro, o piccole perdite ripetute che, sommate, diventano significative.",
+      "finance": "Piccole spese che erodono i risparmi, o una perdita economica graduale da monitorare con attenzione.",
+      "spirituality": "Invita a osservare cosa, dentro di noi, si sta lentamente consumando, prima che il danno diventi più grande.",
+      "strengths": [
+        "Capacità di individuare un problema prima che diventi grave",
+        "Attenzione ai dettagli che altri trascurano",
+        "Resilienza di fronte a difficoltà prolungate"
+      ],
+      "attention": [
+        "Ansia cronica che logora il benessere",
+        "Piccole perdite che, ignorate, diventano grandi",
+        "Relazioni che si consumano senza una crisi evidente"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una relazione logorata da piccoli attriti mai affrontati davvero."
+        },
+        {
+          "with": 34,
+          "text": "Piccole perdite economiche che, sommate, pesano nel tempo."
+        },
+        {
+          "with": 36,
+          "text": "Uno stress prolungato che merita attenzione prima che cresca."
+        },
+        {
+          "with": 6,
+          "text": "Una preoccupazione costante che si alimenta da sola."
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Il Cuore",
+      "subtitle": "L'Amore",
+      "keywords": [
+        "amore",
+        "passione",
+        "sentimento",
+        "verità emotiva"
+      ],
+      "uprightMeaning": "Il Cuore rappresenta l'amore in tutte le sue forme: passione, affetto sincero, verità emotiva. Quando compare, i sentimenti sono protagonisti della situazione.",
+      "reversedMeaning": "Capovolto, può indicare un cuore ferito, sentimenti non corrisposti o difficoltà a esprimere ciò che davvero si prova.",
+      "love": "La carta dell'amore per eccellenza: un sentimento sincero, forte, che chiede di essere vissuto pienamente.",
+      "work": "Una passione autentica per ciò che si fa, o un ambiente di lavoro dove il fattore umano conta davvero.",
+      "finance": "Scelte economiche guidate dal cuore più che dalla ragione: vanno valutate con un po' di equilibrio in più.",
+      "spirituality": "Simbolo del centro emotivo, dell'amore come forza che muove ogni autentico percorso di crescita.",
+      "strengths": [
+        "Capacità di amare con autenticità",
+        "Empatia e calore umano",
+        "Sincerità nei sentimenti espressi"
+      ],
+      "attention": [
+        "Sentimenti che offuscano il giudizio pratico",
+        "Vulnerabilità emotiva in situazioni delicate",
+        "Aspettative sentimentali troppo alte"
+      ],
+      "combinations": [
+        {
+          "with": 25,
+          "text": "Un amore che si avvia verso un impegno serio, come un fidanzamento o un matrimonio."
+        },
+        {
+          "with": 28,
+          "text": "Un sentimento forte verso un uomo specifico."
+        },
+        {
+          "with": 29,
+          "text": "Un sentimento forte verso una donna specifica."
+        },
+        {
+          "with": 36,
+          "text": "Una sofferenza d'amore, una ferita emotiva ancora aperta."
+        },
+        {
+          "with": 9,
+          "text": "Un gesto romantico capace di far rifiorire un sentimento."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "L'Anello",
+      "subtitle": "Il Patto",
+      "keywords": [
+        "impegno",
+        "contratto",
+        "unione",
+        "ciclo"
+      ],
+      "uprightMeaning": "L'Anello rappresenta l'impegno formale: un contratto, un matrimonio, un'unione che lega due parti in modo duraturo. È la carta dei patti che contano.",
+      "reversedMeaning": "Capovolto, può indicare un impegno che si incrina, una promessa non mantenuta o un ciclo che fatica a chiudersi in modo pulito.",
+      "love": "Un passo importante nella relazione: una convivenza, un fidanzamento, un matrimonio o comunque un impegno duraturo.",
+      "work": "Un contratto importante, un accordo di collaborazione a lungo termine o la firma di un documento vincolante.",
+      "finance": "Un accordo economico formale, come un mutuo, un contratto di affitto o un investimento a lungo termine.",
+      "spirituality": "Simbolo del ciclo che si chiude su se stesso, dell'unione tra parti diverse della propria vita interiore.",
+      "strengths": [
+        "Capacità di costruire impegni duraturi",
+        "Affidabilità nel mantenere la parola data",
+        "Solidità nei legami importanti"
+      ],
+      "attention": [
+        "Impegni presi troppo in fretta",
+        "Paura di legarsi che blocca le decisioni",
+        "Promesse che diventano un peso invece che un sostegno"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un fidanzamento o un matrimonio, l'ufficializzazione di un amore sincero."
+        },
+        {
+          "with": 19,
+          "text": "Un contratto importante firmato con un'azienda o un'istituzione."
+        },
+        {
+          "with": 4,
+          "text": "Un impegno di lungo periodo legato alla casa o alla famiglia."
+        },
+        {
+          "with": 36,
+          "text": "Un impegno vissuto come un peso, più dovere che desiderio."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Il Libro",
+      "subtitle": "Il Segreto",
+      "keywords": [
+        "segreto",
+        "conoscenza",
+        "studio",
+        "informazione nascosta"
+      ],
+      "uprightMeaning": "Il Libro custodisce un segreto o una conoscenza non ancora rivelata: uno studio in corso, un'informazione che va ancora scoperta o approfondita.",
+      "reversedMeaning": "Capovolto, può indicare un segreto rivelato, spesso in modo inatteso, oppure una verità che finalmente viene a galla.",
+      "love": "Sentimenti non ancora dichiarati, o un aspetto della relazione che una delle due parti non ha ancora condiviso.",
+      "work": "Informazioni riservate, un progetto ancora confidenziale o la necessità di approfondire studi prima di procedere.",
+      "finance": "Dettagli economici non ancora chiari, da approfondire prima di prendere decisioni importanti.",
+      "spirituality": "Simbolo della conoscenza esoterica, dello studio come via di accesso a verità più profonde.",
+      "strengths": [
+        "Curiosità intellettuale e voglia di approfondire",
+        "Capacità di custodire informazioni delicate",
+        "Discrezione quando serve"
+      ],
+      "attention": [
+        "Segreti che, se nascosti troppo a lungo, danneggiano la fiducia",
+        "Eccesso di riservatezza che isola",
+        "Informazioni incomplete che portano a decisioni sbagliate"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un sentimento non ancora dichiarato apertamente."
+        },
+        {
+          "with": 7,
+          "text": "Un segreto legato a una situazione complicata o a una terza persona."
+        },
+        {
+          "with": 33,
+          "text": "Un segreto che, rivelato, porta finalmente alla soluzione cercata."
+        },
+        {
+          "with": 19,
+          "text": "Informazioni riservate all'interno di un'azienda o istituzione."
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "La Lettera",
+      "subtitle": "Il Messaggio Scritto",
+      "keywords": [
+        "messaggio",
+        "documento",
+        "comunicazione scritta",
+        "notizia"
+      ],
+      "uprightMeaning": "La Lettera rappresenta ogni forma di comunicazione scritta: un messaggio, un'email, un documento importante. Porta informazioni che vanno lette con attenzione.",
+      "reversedMeaning": "Capovolta, può indicare un messaggio che non arriva, un documento perso o una comunicazione fraintesa.",
+      "love": "Un messaggio scritto significativo, come una dichiarazione o una lunga conversazione testuale che chiarisce i sentimenti.",
+      "work": "Un documento contrattuale, un'email importante o una comunicazione ufficiale da gestire con attenzione.",
+      "finance": "Un estratto conto, una fattura o un documento economico da controllare con cura prima di procedere.",
+      "spirituality": "Simbolo del messaggio che arriva dall'esterno ma parla direttamente a noi, se sappiamo leggerlo.",
+      "strengths": [
+        "Chiarezza nella comunicazione scritta",
+        "Capacità di documentare bene le cose importanti",
+        "Attenzione ai dettagli nei testi e nei contratti"
+      ],
+      "attention": [
+        "Messaggi fraintesi per mancanza di tono",
+        "Documenti firmati senza leggerli davvero",
+        "Attese prolungate per una risposta scritta"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un messaggio d'amore significativo, scritto con cura."
+        },
+        {
+          "with": 1,
+          "text": "Una notizia scritta in arrivo, come un'email o una lettera."
+        },
+        {
+          "with": 19,
+          "text": "Un documento ufficiale proveniente da un'azienda o un ente."
+        },
+        {
+          "with": 34,
+          "text": "Un documento economico, come una fattura o un contratto, da verificare."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "L'Uomo",
+      "subtitle": "La Figura Maschile",
+      "keywords": [
+        "uomo",
+        "energia maschile",
+        "persona di riferimento"
+      ],
+      "uprightMeaning": "L'Uomo rappresenta una figura maschile significativa nella lettura: può essere chi fa la domanda, oppure una persona importante legata alla situazione descritta dalle carte vicine.",
+      "reversedMeaning": "Capovolto, può indicare un atteggiamento maschile chiuso, passivo o poco disponibile al dialogo in questo momento.",
+      "love": "L'uomo coinvolto nella domanda sentimentale: il suo atteggiamento dipende molto dalle carte che lo circondano.",
+      "work": "Un collega, un capo o un cliente uomo rilevante per la situazione lavorativa in esame.",
+      "finance": "Una figura maschile che ha un ruolo nelle decisioni economiche in corso, come un socio o un consulente.",
+      "spirituality": "Rappresenta il principio maschile: azione, struttura, direzione razionale.",
+      "strengths": [
+        "Presenza di riferimento concreta nella situazione",
+        "Capacità di agire e decidere",
+        "Energia pratica e diretta"
+      ],
+      "attention": [
+        "Rigidità o chiusura comunicativa",
+        "Difficoltà a mostrare vulnerabilità",
+        "Decisioni prese senza consultare gli altri"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un uomo coinvolto in una situazione sentimentale importante."
+        },
+        {
+          "with": 29,
+          "text": "Una coppia, l'incontro o il legame tra un uomo e una donna."
+        },
+        {
+          "with": 7,
+          "text": "Un uomo che agisce con secondi fini, da osservare con attenzione."
+        },
+        {
+          "with": 18,
+          "text": "Un uomo leale e affidabile su cui si può contare."
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "La Donna",
+      "subtitle": "La Figura Femminile",
+      "keywords": [
+        "donna",
+        "energia femminile",
+        "persona di riferimento"
+      ],
+      "uprightMeaning": "La Donna rappresenta una figura femminile significativa nella lettura: può essere chi fa la domanda, oppure una persona importante legata alla situazione descritta dalle carte vicine.",
+      "reversedMeaning": "Capovolta, può indicare un atteggiamento femminile chiuso, diffidente o poco incline ad aprirsi in questo momento.",
+      "love": "La donna coinvolta nella domanda sentimentale: il suo atteggiamento dipende molto dalle carte che la circondano.",
+      "work": "Una collega, una capo o una cliente donna rilevante per la situazione lavorativa in esame.",
+      "finance": "Una figura femminile che ha un ruolo nelle decisioni economiche in corso, come una socia o una consulente.",
+      "spirituality": "Rappresenta il principio femminile: intuizione, accoglienza, saggezza emotiva.",
+      "strengths": [
+        "Intuizione forte e capacità di leggere le situazioni",
+        "Empatia nelle relazioni",
+        "Determinazione discreta ma costante"
+      ],
+      "attention": [
+        "Chiusura emotiva per autodifesa",
+        "Diffidenza verso chi si avvicina",
+        "Tendenza a trattenere ciò che si prova"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una donna coinvolta in una situazione sentimentale importante."
+        },
+        {
+          "with": 28,
+          "text": "Una coppia, l'incontro o il legame tra una donna e un uomo."
+        },
+        {
+          "with": 7,
+          "text": "Una donna che agisce con secondi fini, da osservare con attenzione."
+        },
+        {
+          "with": 18,
+          "text": "Una donna leale e affidabile su cui si può contare."
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Il Giglio",
+      "subtitle": "La Maturità",
+      "keywords": [
+        "pace",
+        "maturità",
+        "armonia familiare",
+        "saggezza"
+      ],
+      "uprightMeaning": "Il Giglio rappresenta la maturità serena: pace familiare, saggezza accumulata nel tempo, una sessualità vissuta con naturalezza e senza fretta.",
+      "reversedMeaning": "Capovolto, può indicare tensioni familiari legate a una figura anziana, oppure un'eccessiva rigidità verso ciò che è nuovo.",
+      "love": "Una relazione matura, solida, spesso con una differenza d'età o con una lunga storia alle spalle.",
+      "work": "L'esperienza come valore: un collega o un mentore più maturo che offre saggezza pratica.",
+      "finance": "Una gestione economica prudente e matura, frutto di esperienza accumulata negli anni.",
+      "spirituality": "Simbolo della pace interiore che arriva con la maturità, della saggezza che non ha più bisogno di dimostrare nulla.",
+      "strengths": [
+        "Serenità e pace interiore",
+        "Saggezza pratica maturata nel tempo",
+        "Stabilità familiare"
+      ],
+      "attention": [
+        "Rigidità verso il cambiamento",
+        "Tensioni con figure familiari anziane",
+        "Eccessiva prudenza che frena nuove esperienze"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un amore maturo e stabile, costruito nel tempo."
+        },
+        {
+          "with": 4,
+          "text": "Armonia familiare raggiunta dopo anni di esperienza condivisa."
+        },
+        {
+          "with": 15,
+          "text": "Una figura anziana autorevole in famiglia, portatrice di saggezza."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Il Sole",
+      "subtitle": "Il Successo",
+      "keywords": [
+        "successo",
+        "vitalità",
+        "gioia",
+        "chiarezza"
+      ],
+      "uprightMeaning": "Il Sole è una delle carte più positive del mazzo: successo, vitalità, gioia autentica. Quando compare, le cose si illuminano e la fiducia torna a crescere.",
+      "reversedMeaning": "Capovolto, può indicare un successo rimandato o un ottimismo temporaneamente offuscato da difficoltà passeggere.",
+      "love": "Una relazione piena di gioia e vitalità, un momento sereno e luminoso da vivere pienamente.",
+      "work": "Un successo professionale meritato, un riconoscimento che conferma la bontà del percorso intrapreso.",
+      "finance": "Un periodo economico favorevole, con buone prospettive di crescita e stabilità.",
+      "spirituality": "Simbolo della luce interiore, della consapevolezza che illumina ogni aspetto della vita.",
+      "strengths": [
+        "Vitalità ed energia positiva",
+        "Fiducia che attira buoni risultati",
+        "Chiarezza mentale ed emotiva"
+      ],
+      "attention": [
+        "Eccessivo ottimismo che sottovaluta i rischi",
+        "Aspettative di successo continuo senza pause",
+        "Delusione se la realtà non è luminosa come sperato"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un amore felice, vissuto con gioia e pienezza."
+        },
+        {
+          "with": 34,
+          "text": "Un buon momento economico, con prospettive favorevoli."
+        },
+        {
+          "with": 19,
+          "text": "Un successo professionale riconosciuto pubblicamente."
+        },
+        {
+          "with": 5,
+          "text": "Buona energia vitale e ottimismo per il futuro."
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "La Luna",
+      "subtitle": "Il Riconoscimento",
+      "keywords": [
+        "intuizione",
+        "reputazione",
+        "emozioni",
+        "riconoscimento"
+      ],
+      "uprightMeaning": "La Luna rappresenta il riconoscimento pubblico e l'intuizione profonda: la reputazione, le emozioni che guidano le scelte, i cicli naturali della vita interiore.",
+      "reversedMeaning": "Capovolta, può indicare una reputazione danneggiata, confusione emotiva o un'intuizione che viene ignorata.",
+      "love": "Sentimenti intensi e profondi, guidati più dall'intuizione che dalla ragione.",
+      "work": "Un riconoscimento pubblico del proprio lavoro, una reputazione professionale che cresce nel tempo.",
+      "finance": "Guadagni legati alla propria immagine pubblica, come un lavoro creativo o di visibilità.",
+      "spirituality": "Simbolo per eccellenza dell'intuizione, della parte emotiva e ciclica della nostra natura interiore.",
+      "strengths": [
+        "Intuizione affidabile nelle decisioni importanti",
+        "Sensibilità emotiva profonda",
+        "Buona reputazione costruita nel tempo"
+      ],
+      "attention": [
+        "Emotività che offusca la lucidità pratica",
+        "Preoccupazione eccessiva per l'immagine pubblica",
+        "Cicli di umore che influenzano le decisioni"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Sentimenti profondi e intuitivi verso una persona specifica."
+        },
+        {
+          "with": 1,
+          "text": "Un riconoscimento o una visibilità che arriva prima del previsto."
+        },
+        {
+          "with": 16,
+          "text": "Visibilità e riconoscimento pubblico, anche online."
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "La Chiave",
+      "subtitle": "La Soluzione",
+      "keywords": [
+        "soluzione",
+        "certezza",
+        "sblocco",
+        "risposta"
+      ],
+      "uprightMeaning": "La Chiave rappresenta la soluzione certa: la risposta che si cercava, lo sblocco di una situazione ferma da tempo. È una delle carte più rassicuranti del mazzo.",
+      "reversedMeaning": "Capovolta, può indicare una soluzione ancora lontana, oppure una chiave sbagliata che non apre davvero la porta cercata.",
+      "love": "La soluzione a un dubbio sentimentale, la chiarezza che finalmente permette di andare avanti.",
+      "work": "Una soluzione concreta a un problema professionale, l'accesso a un'opportunità importante.",
+      "finance": "Lo sblocco di una situazione economica ferma, l'accesso a risorse prima non disponibili.",
+      "spirituality": "Simbolo della certezza interiore, della chiave che apre la comprensione profonda di una situazione.",
+      "strengths": [
+        "Capacità di trovare soluzioni concrete",
+        "Certezza e sicurezza nelle decisioni",
+        "Accesso a opportunità prima bloccate"
+      ],
+      "attention": [
+        "Soluzioni cercate con troppa fretta",
+        "Eccessiva sicurezza che impedisce di valutare alternative",
+        "Chiavi che aprono porte sbagliate"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "La chiarezza definitiva su un sentimento o una relazione."
+        },
+        {
+          "with": 21,
+          "text": "Un ostacolo che, superato, porta finalmente alla soluzione."
+        },
+        {
+          "with": 34,
+          "text": "Lo sblocco di una situazione economica ferma da tempo."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "I Pesci",
+      "subtitle": "L'Abbondanza",
+      "keywords": [
+        "abbondanza",
+        "denaro",
+        "affari",
+        "indipendenza"
+      ],
+      "uprightMeaning": "I Pesci rappresentano l'abbondanza materiale: il flusso di denaro, gli affari, l'indipendenza economica. È una delle carte più favorevoli per le questioni finanziarie.",
+      "reversedMeaning": "Capovolti, possono indicare difficoltà economiche, spese eccessive o un flusso di denaro che si interrompe temporaneamente.",
+      "love": "Abbondanza emotiva, una relazione che porta benessere anche a livello materiale e pratico.",
+      "work": "Un'attività commerciale florida, un business che genera buoni guadagni nel tempo.",
+      "finance": "Il tema centrale di questa carta: denaro che scorre, investimenti fruttuosi, indipendenza economica raggiunta o in arrivo.",
+      "spirituality": "Simbolo dell'abbondanza come stato interiore, della fiducia nel flusso naturale della vita.",
+      "strengths": [
+        "Capacità di generare e gestire ricchezza",
+        "Indipendenza economica",
+        "Fiuto per gli affari vantaggiosi"
+      ],
+      "attention": [
+        "Spese impulsive che intaccano l'abbondanza",
+        "Dipendenza eccessiva dal denaro per sentirsi sicuri",
+        "Investimenti multipli difficili da gestire tutti bene"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Un amore che porta anche benessere materiale e stabilità."
+        },
+        {
+          "with": 3,
+          "text": "Guadagni legati a commercio internazionale o affari lontani da casa."
+        },
+        {
+          "with": 33,
+          "text": "Lo sblocco di una situazione economica ferma da tempo."
+        },
+        {
+          "with": 15,
+          "text": "Buone risorse economiche gestite con prudenza e controllo."
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "L'Ancora",
+      "subtitle": "La Stabilità",
+      "keywords": [
+        "stabilità",
+        "sicurezza",
+        "lavoro duraturo",
+        "costanza"
+      ],
+      "uprightMeaning": "L'Ancora rappresenta la stabilità duratura: un lavoro sicuro, un impegno di lungo termine, la capacità di restare saldi anche nelle tempeste.",
+      "reversedMeaning": "Capovolta, può indicare instabilità lavorativa, un ancoraggio che manca o la difficoltà a trovare un punto fermo.",
+      "love": "Una relazione stabile e duratura, un porto sicuro dopo un periodo di incertezza.",
+      "work": "Un impiego sicuro e duraturo, un contratto a lungo termine o una posizione professionale consolidata.",
+      "finance": "Una base economica stabile, costruita con costanza e capace di resistere nel tempo.",
+      "spirituality": "Simbolo del punto fermo interiore, della capacità di restare ancorati ai propri valori in ogni circostanza.",
+      "strengths": [
+        "Stabilità e sicurezza duratura",
+        "Costanza nel perseguire gli obiettivi",
+        "Capacità di resistere alle difficoltà"
+      ],
+      "attention": [
+        "Rigidità che impedisce di cogliere nuove opportunità",
+        "Paura del cambiamento anche quando necessario",
+        "Stabilità che diventa stagnazione"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una relazione stabile, un porto sicuro dopo un periodo incerto."
+        },
+        {
+          "with": 19,
+          "text": "Una posizione lavorativa consolidata all'interno di un'azienda."
+        },
+        {
+          "with": 34,
+          "text": "Una base economica solida, costruita con costanza nel tempo."
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "La Croce",
+      "subtitle": "La Prova",
+      "keywords": [
+        "prova",
+        "peso",
+        "destino",
+        "fede"
+      ],
+      "uprightMeaning": "La Croce rappresenta il peso da portare, la prova che il destino mette sul cammino. Non è una carta facile, ma indica anche la forza che nasce dall'affrontare le difficoltà con fede.",
+      "reversedMeaning": "Capovolta, può indicare che il peso sta per alleggerirsi, o che una prova difficile sta per concludersi, lasciando una lezione importante.",
+      "love": "Una relazione messa alla prova da circostanze difficili, che richiede fede e pazienza per essere superata insieme.",
+      "work": "Un periodo faticoso sul lavoro, una responsabilità pesante da portare avanti con determinazione.",
+      "finance": "Un periodo economico impegnativo, che richiede sacrificio ma anche una buona dose di fiducia nel futuro.",
+      "spirituality": "La carta più spirituale del mazzo: rappresenta la fede, il significato che si trova proprio nell'affrontare le prove della vita.",
+      "strengths": [
+        "Forza interiore che nasce dalla prova",
+        "Fede e resistenza nei momenti difficili",
+        "Capacità di trovare significato anche nella fatica"
+      ],
+      "attention": [
+        "Senso di rassegnazione di fronte al destino",
+        "Peso emotivo portato in silenzio troppo a lungo",
+        "Difficoltà a chiedere aiuto quando servirebbe"
+      ],
+      "combinations": [
+        {
+          "with": 24,
+          "text": "Una sofferenza d'amore, una prova importante nei sentimenti."
+        },
+        {
+          "with": 8,
+          "text": "Un periodo di prova prolungato, che però ha una fine."
+        },
+        {
+          "with": 25,
+          "text": "Un impegno vissuto come un peso, più dovere che desiderio."
+        },
+        {
+          "with": 23,
+          "text": "Uno stress prolungato che merita attenzione prima che cresca."
+        }
+      ]
+    }
+  ]
+}

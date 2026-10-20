@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>Guida alle Carte Lenormand</title>
+<meta name="description" content="La guida completa alle 36 carte Lenormand: significati, combinazioni, bonus esclusivi e PDF scaricabili. App ufficiale in italiano.">
+<meta name="theme-color" content="#140B24">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="assets/icons/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="assets/icons/icon-180.png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500&family=Jost:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/variables.css">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="app-bg" aria-hidden="true"></div>
+
+<header class="site-header">
+  <div class="header-inner">
+    <a href="#/" class="brand">
+      <span class="brand-mark">✦</span>
+      <span class="brand-text">Guida alle Carte<br><strong>Lenormand</strong></span>
+    </a>
+    <nav class="main-nav" id="main-nav">
+      <a href="#/carte" data-route="carte">Le Carte</a>
+      <a href="#/estrai" data-route="estrai">Estrai una Carta</a>
+      <a href="#/bonus" data-route="bonus">Bonus</a>
+      <a href="#/diario" data-route="diario">Diario</a>
+      <a href="#/download" data-route="download">Scarica il PDF</a>
+    </nav>
+    <button class="nav-toggle" id="nav-toggle" aria-label="Apri il menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </div>
+</header>
+
+<main id="view" class="view" tabindex="-1"></main>
+
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p>Guida alle Carte Lenormand &mdash; Metodo Completo</p>
+    <p class="footer-fine">Contenuto a scopo informativo ed educativo. Non sostituisce consulenza professionale, medica, legale o finanziaria.</p>
+  </div>
+</footer>
+
+<div id="toast" class="toast" role="status" aria-live="polite"></div>
+
+<script src="js/app.js"></script>
+</body>
+</html>

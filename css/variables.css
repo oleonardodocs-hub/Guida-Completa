@@ -1,0 +1,52 @@
+/* ============================================================
+   Guida alle Carte Lenormand — Design Tokens
+   Identità visiva creata da zero: palette "notte mistica"
+   viola/indaco profondo + oro antico, per un'esperienza elegante
+   e leggibile, coerente con il tema esoterico del prodotto.
+   ============================================================ */
+
+:root {
+  /* Base */
+  --color-bg: #140B24;
+  --color-bg-alt: #1C1036;
+  --color-surface: #241640;
+  --color-surface-raised: #2D1C4D;
+  --color-border: #3A2A5C;
+
+  /* Oro antico (accento primario) */
+  --color-gold: #C9A227;
+  --color-gold-light: #E6C65C;
+  --color-gold-dim: #8C7020;
+
+  /* Testo */
+  --color-text: #F6EFE2;
+  --color-text-muted: #C6BBDE;
+  --color-text-faint: #8E82AC;
+
+  /* Stati semantici */
+  --color-positive: #8FBF8A;
+  --color-attention: #D98C5F;
+
+  /* Tipografia */
+  --font-display: "Cormorant Garamond", "Georgia", serif;
+  --font-body: "Jost", "Segoe UI", sans-serif;
+
+  /* Spaziatura */
+  --space-1: 0.4rem;
+  --space-2: 0.8rem;
+  --space-3: 1.2rem;
+  --space-4: 1.8rem;
+  --space-5: 2.8rem;
+  --space-6: 4rem;
+
+  /* Raggi e ombre */
+  --radius-s: 8px;
+  --radius-m: 16px;
+  --radius-l: 28px;
+  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.35);
+  --shadow-glow: 0 0 0 1px rgba(201, 162, 39, 0.25), 0 10px 30px rgba(0,0,0,0.4);
+
+  /* Layout */
+  --max-width: 1100px;
+  --header-height: 68px;
+}

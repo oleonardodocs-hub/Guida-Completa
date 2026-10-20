@@ -1,0 +1,36 @@
+{
+  "slug": "diario-delle-letture",
+  "title": "Diario delle Letture",
+  "subtitle": "Tieni traccia delle tue stese e osserva i tuoi progressi nel tempo",
+  "icon": "notebook",
+  "intro": "Il Diario è lo strumento integrato nell'app per salvare ogni lettura che fai: la domanda, le carte estratte, la tua interpretazione e, più avanti, come le cose si sono effettivamente evolute. È disponibile nella sezione Diario dell'app ed è pensato per aiutarti a imparare dalla tua stessa pratica, lettura dopo lettura.",
+  "sections": [
+    {
+      "heading": "Perché tenere un diario delle letture",
+      "body": "Chi legge le carte regolarmente nota spesso che le stese più utili non sono quelle 'perfette', ma quelle rilette a distanza di tempo. Un diario ti permette di confrontare l'interpretazione fatta a caldo con ciò che è successo davvero, affinando nel tempo la tua capacità di leggere con precisione."
+    },
+    {
+      "heading": "Cosa annotare in ogni voce",
+      "items": [
+        "La data della lettura e, se ti aiuta, anche il tuo stato d'animo del momento.",
+        "La domanda esatta che hai posto, formulata con le tue parole.",
+        "Le carte estratte, nell'ordine in cui sono uscite.",
+        "La tua prima interpretazione, quella istintiva, prima di analizzare troppo.",
+        "Uno spazio per tornare in seguito e annotare come la situazione si è effettivamente evoluta."
+      ]
+    },
+    {
+      "heading": "Domande guida per riflettere dopo una lettura",
+      "items": [
+        "Quale carta mi ha colpito di più, e perché?",
+        "C'è una carta che inizialmente ho voluto ignorare o minimizzare?",
+        "La mia interpretazione era guidata dalla speranza o da ciò che le carte mostravano davvero?",
+        "Cosa cambierebbe nella mia lettura se la rileggessi oggi, con più distanza emotiva?"
+      ]
+    },
+    {
+      "heading": "Come funziona nell'app",
+      "body": "Ogni volta che usi lo strumento 'Estrai una carta' nella sezione principale, puoi salvare la lettura direttamente nel Diario con un tocco. Da lì potrai rileggerla, aggiungere note successive e osservare, nel tempo, quali temi tornano più spesso nelle tue stese. I dati del Diario restano salvati solo sul tuo dispositivo, in modo privato."
+    }
+  ]
+}
