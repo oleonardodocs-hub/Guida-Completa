@@ -26,21 +26,29 @@ node scripts/generate-pdfs.js
 
 ## Pubblicare su GitHub Pages
 
-Questo progetto è pronto per essere pubblicato così com'è, senza build.
+Questo progetto è pronto per essere pubblicato così com'è, senza build. Il repository di riferimento è `oleonardodocs-hub/Guida-Completa`.
+
+Se il repository su GitHub è vuoto (creato dall'interfaccia web senza file):
 
 ```
-git init
-git add .
-git commit -m "Prima versione della Guida alle Carte Lenormand"
 git branch -M main
-git remote add origin https://github.com/oleonardodocs-hub/guida-lenormand.git
+git remote add origin https://github.com/oleonardodocs-hub/Guida-Completa.git
+git push -u origin main
+```
+
+Se il repository ha già un commit iniziale creato da GitHub (es. un README generato automaticamente), usa invece:
+
+```
+git branch -M main
+git remote add origin https://github.com/oleonardodocs-hub/Guida-Completa.git
+git pull origin main --allow-unrelated-histories
 git push -u origin main
 ```
 
 Poi, su GitHub: Settings → Pages → Branch: `main`, cartella `/ (root)`. L'app sarà disponibile su:
 
 ```
-https://oleonardodocs-hub.github.io/guida-lenormand/
+https://oleonardodocs-hub.github.io/Guida-Completa/
 ```
 
 ## Note

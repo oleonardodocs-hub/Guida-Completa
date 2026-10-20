@@ -1,31 +1,35 @@
 /* ============================================================
    Guida alle Carte Lenormand — Design Tokens
-   Identità visiva creata da zero: palette "notte mistica"
-   viola/indaco profondo + oro antico, per un'esperienza elegante
-   e leggibile, coerente con il tema esoterico del prodotto.
+   Identità visiva allineata al sito e alla creatività ufficiale:
+   pergamena color crema, bordeaux antico e oro, nessun viola.
    ============================================================ */
 
 :root {
-  /* Base */
-  --color-bg: #140B24;
-  --color-bg-alt: #1C1036;
-  --color-surface: #241640;
-  --color-surface-raised: #2D1C4D;
-  --color-border: #3A2A5C;
+  /* Base — pergamena */
+  --color-bg: #FBF3E1;
+  --color-bg-alt: #F6EAC9;
+  --color-surface: #FDF8EC;
+  --color-surface-raised: #FBF0D4;
+  --color-border: #E6CFA0;
 
-  /* Oro antico (accento primario) */
-  --color-gold: #C9A227;
-  --color-gold-light: #E6C65C;
-  --color-gold-dim: #8C7020;
+  /* Bordeaux (accento primario, badge, titoli, bottoni) */
+  --color-maroon: #6B0A1E;
+  --color-maroon-dark: #4A0714;
+  --color-maroon-light: #8C1830;
+
+  /* Oro antico (ornamenti, bordi, dettagli) */
+  --color-gold: #C9972E;
+  --color-gold-light: #E8C878;
+  --color-gold-dim: #9C7220;
 
   /* Testo */
-  --color-text: #F6EFE2;
-  --color-text-muted: #C6BBDE;
-  --color-text-faint: #8E82AC;
+  --color-text: #2A1408;
+  --color-text-muted: #5C4330;
+  --color-text-faint: #8C7458;
 
   /* Stati semantici */
-  --color-positive: #8FBF8A;
-  --color-attention: #D98C5F;
+  --color-positive: #3F6B35;
+  --color-attention: #A8431F;
 
   /* Tipografia */
   --font-display: "Cormorant Garamond", "Georgia", serif;
@@ -43,8 +47,8 @@
   --radius-s: 8px;
   --radius-m: 16px;
   --radius-l: 28px;
-  --shadow-soft: 0 10px 30px rgba(0, 0, 0, 0.35);
-  --shadow-glow: 0 0 0 1px rgba(201, 162, 39, 0.25), 0 10px 30px rgba(0,0,0,0.4);
+  --shadow-soft: 0 10px 26px rgba(74, 7, 20, 0.14);
+  --shadow-glow: 0 0 0 1px rgba(201, 151, 46, 0.35), 0 10px 26px rgba(74, 7, 20, 0.18);
 
   /* Layout */
   --max-width: 1100px;

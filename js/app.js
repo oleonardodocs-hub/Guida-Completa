@@ -156,6 +156,15 @@
     );
   }
 
+  function lifeAreaBox(iconId, label, text) {
+    return (
+      '<div class="life-area-card">' +
+        '<div class="area-label"><span class="badge-icon">' + icon(iconId) + '</span><span class="badge-label">' + label + "</span></div>" +
+        "<p>" + escapeHtml(text) + "</p>" +
+      "</div>"
+    );
+  }
+
   function cardDetailHtml(c) {
     var combosHtml = c.combinations.map(comboItemHtml).join("");
     return (
@@ -173,25 +182,52 @@
         "</div>" +
       "</div>" +
 
-      '<div class="meaning-grid">' +
-        '<div class="meaning-box upright"><h4>Significato Dritto</h4><p>' + escapeHtml(c.uprightMeaning) + "</p></div>" +
-        '<div class="meaning-box reversed"><h4>Significato Rovesciato</h4><p>' + escapeHtml(c.reversedMeaning) + "</p></div>" +
+      '<div class="mindmap-grid">' +
+        '<div class="mindmap-col">' +
+          '<div class="mindmap-box strengths">' +
+            '<div class="mindmap-box-head"><span class="badge-icon">' + icon("sparkle") + '</span><span class="badge-label">Punti di Forza</span></div>' +
+            "<ul>" + c.strengths.map(function (s) { return "<li>" + escapeHtml(s) + "</li>"; }).join("") + "</ul>" +
+          "</div>" +
+          '<div class="mindmap-box attention">' +
+            '<div class="mindmap-box-head"><span class="badge-icon">' + icon("sparkle") + '</span><span class="badge-label">Punti di Attenzione</span></div>' +
+            "<ul>" + c.attention.map(function (s) { return "<li>" + escapeHtml(s) + "</li>"; }).join("") + "</ul>" +
+          "</div>" +
+        "</div>" +
+
+        '<div class="mindmap-col">' +
+          '<div class="card-portrait">' +
+            '<div class="frame-number">' + String(c.id).padStart(2, "0") + '</div>' +
+            '<div class="frame-icon">' + cardIcon(c.id) + '</div>' +
+            "<h1>" + escapeHtml(c.name) + "</h1>" +
+            '<div class="frame-sub">' + escapeHtml(c.subtitle || "") + "</div>" +
+          "</div>" +
+          '<div class="mindmap-box significato-box">' +
+            '<div class="mindmap-box-head"><span class="badge-icon">' + icon("book-open") + '</span><span class="badge-label">Significato Generale</span></div>' +
+            '<div class="sig-block"><h4 class="dritto">Dritto</h4><p>' + escapeHtml(c.uprightMeaning) + "</p></div>" +
+            '<div class="sig-block"><h4 class="rovesciato">Rovesciato</h4><p>' + escapeHtml(c.reversedMeaning) + "</p></div>" +
+          "</div>" +
+        "</div>" +
+
+        '<div class="mindmap-col">' +
+          '<div class="mindmap-box">' +
+            '<div class="mindmap-box-head"><span class="badge-icon">' + icon("layers") + '</span><span class="badge-label">Combinazioni Tipiche</span></div>' +
+            '<ul>' + c.combinations.slice(0, 5).map(function (combo) {
+              var t = state.cardsById[combo.with];
+              return "<li><b>+ " + escapeHtml(t ? t.name : "") + ":</b> " + escapeHtml(combo.text) + "</li>";
+            }).join("") + "</ul>" +
+          "</div>" +
+        "</div>" +
       "</div>" +
 
       '<div class="life-areas">' +
-        '<div class="life-area-card"><div class="area-label">' + icon("sparkle", "mini") + ' Amore</div><p>' + escapeHtml(c.love) + "</p></div>" +
-        '<div class="life-area-card"><div class="area-label">' + icon("sparkle", "mini") + ' Lavoro</div><p>' + escapeHtml(c.work) + "</p></div>" +
-        '<div class="life-area-card"><div class="area-label">' + icon("sparkle", "mini") + ' Finanze</div><p>' + escapeHtml(c.finance) + "</p></div>" +
-        '<div class="life-area-card"><div class="area-label">' + icon("sparkle", "mini") + ' Spiritualit&agrave;</div><p>' + escapeHtml(c.spirituality) + "</p></div>" +
-      "</div>" +
-
-      '<div class="sp-grid">' +
-        '<div class="sp-list strengths"><h4>Punti di Forza</h4><ul>' + c.strengths.map(function (s) { return "<li>" + escapeHtml(s) + "</li>"; }).join("") + "</ul></div>" +
-        '<div class="sp-list attention"><h4>Punti di Attenzione</h4><ul>' + c.attention.map(function (s) { return "<li>" + escapeHtml(s) + "</li>"; }).join("") + "</ul></div>" +
+        lifeAreaBox("sparkle", "In Amore", c.love) +
+        lifeAreaBox("sparkle", "Nel Lavoro", c.work) +
+        lifeAreaBox("sparkle", "Nelle Finanze", c.finance) +
+        lifeAreaBox("sparkle", "Spiritualit&agrave;", c.spirituality) +
       "</div>" +
 
       '<div class="combo-section">' +
-        "<h3>Combinazioni con altre carte</h3>" +
+        "<h3><span class=\"badge-icon\">" + icon("layers") + "</span> Tutte le combinazioni con altre carte</h3>" +
         '<div class="combo-grid">' + combosHtml + "</div>" +
       "</div>"
     );
